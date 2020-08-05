@@ -49,8 +49,8 @@
 ---
 
 <img align="left" alt="vmarmin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vmarmin&show_icons=true&hide_border=true&count_private=true" />
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmarmin)](https://github.com/vmarmin)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmarmin&count_private=true)](https://github.com/vmarmin)
 
 [website]: https://talesofwanders.com
 [twitter]: https://twitter.com/vmarmin
