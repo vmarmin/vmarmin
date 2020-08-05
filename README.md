@@ -46,6 +46,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Le Fjord du Saguenay](https://www.talesofwanders.com/blog/2020/5/13/le-fjord-du-saguenay)
+- [Prendre de la hauteur à Montréal](https://www.talesofwanders.com/blog/2019/10/25/canada-prendre-de-la-hauteur-montral)
+- [5 jours de Roadtrip Québécois](https://www.talesofwanders.com/blog/2019/8/15/roadtrip-quebecois)
+- [Colombie : sur la côte Caribéenne](https://www.talesofwanders.com/blog/2018/01/21/colombie-sur-la-cote-caribeenne)
+- [Colombie : Medellin ou la ville de l’éternel printemps](https://www.talesofwanders.com/blog/2017/11/18/colombie-medellin-ou-la-ville-de-leternel-printemps)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
