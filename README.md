@@ -2,11 +2,11 @@
 
 ## I'm a Software developer
 
-- 🇫🇷 From france
-- 📍 I’m currently living in Montréal, CA 🇨🇦
-- 🌱 I’m currently learning Django
-- 🥅 2020 Goals: learn front end development
-- ⚡ Fun fact: I love photography and travels 📷🌎
+- 🇫🇷  From france
+- 📍  I’m currently living in Montréal, CA 🇨🇦
+- 🌱  I’m currently learning Django
+- 🥅  2020 Goals: learn front end development
+- ⚡   Fun fact: I love photography and travels 📷🌎
 
 ## Connect with me
 
@@ -15,7 +15,7 @@
 [<img align="left" alt="vmarmin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="vmarmin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+---
 
 ## Languages and Tools
 
@@ -27,6 +27,8 @@
 [<img align="left" alt="Git" height="26px" src="https://cdn.svgporn.com/logos/git-icon.svg" />][linkedin]
 [<img align="left" alt="GitHub" height="26px" src="https://cdn.svgporn.com/logos/github-icon.svg" />][linkedin]
 [<img align="left" alt="terminal" height="26px" src="https://cdn.svgporn.com/logos/terminal.svg" />][linkedin]
+
+---
 
 ## OS and distribution
 
