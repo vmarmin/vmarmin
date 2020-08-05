@@ -15,7 +15,6 @@
 [<img align="left" alt="vmarmin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="vmarmin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
----
 
 ## Languages and Tools
 
@@ -28,7 +27,7 @@
 [<img align="left" alt="GitHub" height="26px" src="https://cdn.svgporn.com/logos/github-icon.svg" />][linkedin]
 [<img align="left" alt="terminal" height="26px" src="https://cdn.svgporn.com/logos/terminal.svg" />][linkedin]
 
----
+
 
 ## OS and distribution
 
@@ -39,8 +38,6 @@
 [<img align="left" alt="manjaro" height="26px" src="https://manjaro.org/img/logo.svg" />](https://manjaro.org/)
 [<img align="left" alt="raspberry pi" height="26px" src="https://cdn.svgporn.com/logos/raspberry-pi.svg" />](https://www.raspberrypi.org/)
 
-<br />
-<br />
 
 ---
 
