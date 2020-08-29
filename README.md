@@ -22,6 +22,7 @@
 [<img align="left" alt="neovim" height="26px" src="https://cdn.svgporn.com/logos/neovim.svg" />][linkedin]
 [<img align="left" alt="vim" height="26px" src="https://cdn.svgporn.com/logos/vim.svg" />][linkedin]
 [<img align="left" alt="python" height="26px" src="https://cdn.svgporn.com/logos/python.svg" />][linkedin]
+[<img align="left" alt="pytest" height="26px" src="https://camo.githubusercontent.com/c6c27ccbb35cbbc24cf1431b5e0e084f73e07373/68747470733a2f2f646f63732e7079746573742e6f72672f656e2f737461626c652f5f7374617469632f707974657374312e706e67" />][linkedin]
 [<img align="left" alt="c" height="26px" src="https://cdn.svgporn.com/logos/c.svg" />][linkedin]
 [<img align="left" alt="Visual Studio Code" height="26px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />][linkedin]
 [<img align="left" alt="Git" height="26px" src="https://cdn.svgporn.com/logos/git-icon.svg" />][linkedin]
@@ -52,9 +53,9 @@
 
 ---
 
-<img align="left" alt="vmarmin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vmarmin&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="vmarmin's Github Stats" src="https://github-readme-stats.vmarmin.vercel.app/api?username=vmarmin&show_icons=true&hide_border=true&count_private=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmarmin&count_private=true)](https://github.com/vmarmin)
+[![Top Langs](https://github-readme-stats.vmarmin.vercel.app/api/top-langs/?username=vmarmin&count_private=true)](https://github.com/vmarmin)
 
 [website]: https://talesofwanders.com
 [twitter]: https://twitter.com/vmarmin
