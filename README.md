@@ -5,7 +5,7 @@
 - From france 🇫🇷
 - I’m currently living in Montréal, CA 📍🇨🇦
 - I’m currently learning Django 🌱
-- 2020 Goals: learn front end development 🥅
+- 2021 Goals: learn front end development 🥅
 - Fun fact: I am a photography and travel enthusiast 📷🌎
 
 ## Connect with me
